@@ -104,3 +104,12 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Mac files
+.DS_Store
+
+# Local backup/generated folders
+/Library_backup/
+/UserSettings_backup/
+/PizzaMaking_BurstDebugInformation_DoNotShip/
+/VR for Pizza_BackUpThisFolder_ButDontShipItWithYourGame/
